@@ -4234,4 +4234,5 @@ Netty Epoll Server IO #1Ex[12May2025 14:29:12.299] [Netty Epoll Server IO #1/DEB
 Netty Epoll Server IO #1Ex[12May2025 14:29:12.299] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
 Netty Epoll Server IO #1Ex[12May2025 14:29:12.299] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.batchFastThreadLocalOnly: true
 Netty Epoll Server IO #1Ex[12May2025 14:29:12.321] [Netty Epoll Server IO #1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/netty/buffer/PoolThreadCache$1
+Netty Epoll Server IO #1Ex[12May2025 14:40:00.596] [Netty Epoll Server IO #1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/netty/handler/timeout/IdleStateHandler$2
 Netty Epoll Server IO #1Ex
